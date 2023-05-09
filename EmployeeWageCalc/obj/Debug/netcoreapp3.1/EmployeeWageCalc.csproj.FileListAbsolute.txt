@@ -1,0 +1,13 @@
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.exe
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.deps.json
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.runtimeconfig.json
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.runtimeconfig.dev.json
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.dll
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\bin\Debug\netcoreapp3.1\EmployeeWageCalc.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.GeneratedMSBuildEditorConfig.editorconfig
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.AssemblyInfoInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.AssemblyInfo.cs
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.csproj.CoreCompileInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.dll
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.genruntimeconfig.cache
