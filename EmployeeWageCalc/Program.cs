@@ -6,7 +6,8 @@ namespace EmployeeWageCalc
     {
         static void Main(string[] args)
         {
-            const int IS_FULLTIME = 1;
+            const int FULLTIME = 1;
+            const int PARTTIME = 2;
             const int EMP_RATE_PER_HR = 20;
             int empHrs = 0;
             int empWage = 0;
@@ -17,10 +18,15 @@ namespace EmployeeWageCalc
             
             int randomInput = random.Next(0, 2);
 
-            if (IS_FULLTIME == randomInput)
+            if (FULLTIME == randomInput)
             {
                 empHrs = 8;
-                Console.WriteLine("Employee is present");
+                Console.WriteLine("Fulltime Employee is present");
+            }
+            else if (PARTTIME == randomInput)
+            {
+                empHrs = 4;
+                Console.WriteLine("Parttime Employee is present");
             }
             else
             {
