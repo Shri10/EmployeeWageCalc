@@ -11,3 +11,4 @@ V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcore
 V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.dll
 V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.pdb
 V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.genruntimeconfig.cache
+V:\bridgeLabz\RFP\CodeWrkDir\EmployeeWageCalc\EmployeeWageCalc\obj\Debug\netcoreapp3.1\EmployeeWageCalc.csproj.AssemblyReference.cache
