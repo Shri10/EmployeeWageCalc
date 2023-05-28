@@ -9,7 +9,7 @@ namespace EmployeeWageCalc
         public const int FULLTIME = 1;
         public const int PARTTIME = 2;
 
-        public void ComputeEmpWageForCompany(string companyName, int EMP_RATE_PER_HR, int MAX_WORKING_DAYS, int MAX_WORKING_HOURS)
+        public void ComputeEmpWageForCompany(Company company)
         {
             int empHrs = 0;
             int empWage = 0;
@@ -19,7 +19,7 @@ namespace EmployeeWageCalc
 
             Random random = new Random();
 
-            while (day <= MAX_WORKING_DAYS && totalWrkHrs <= MAX_WORKING_HOURS)
+            while (day <= company.MaxWorkingDays && totalWrkHrs <= company.MaxWorkingHours)
             {
                 int randomInput = random.Next(0, 3);
 
@@ -36,13 +36,13 @@ namespace EmployeeWageCalc
                         break;
                 }
 
-                empWage = EMP_RATE_PER_HR * empHrs;
+                empWage = company.EmpRatePerHour * empHrs;
                 totalWage += empWage;
                 totalWrkHrs += empHrs;
                 day++;
             }
 
-            Console.WriteLine($"Total Employee Wage for {companyName} is {totalWage}");
+            company.TotalWage = totalWage;
         }
     }
 }
